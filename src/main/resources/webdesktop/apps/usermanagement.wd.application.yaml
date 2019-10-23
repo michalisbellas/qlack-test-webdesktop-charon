@@ -1,0 +1,28 @@
+# A WebDesktop application configuration
+---
+titleKey: application_title1
+descriptionKey: application_description
+appIndex: apps/usermanagement/
+path: a_path
+addedOn: 2121545432165
+lastDeployedOn: 2121545432165
+version: 2.0.1
+bgColor: bg-indigo
+bundleSymbolicName: 'com.eurodyn.qlack2.webdesktop.apps.qlack2-wdapps-user-management-imp'
+translationsGroup: usermanagement
+icon: '{icon-square}mif-user'
+iconSmall: '{icon}mif-user'
+width: '800'
+minWidth: '470'
+height: '500'
+minHeight: '450'
+active: true
+multipleInstances: false
+restrictAccess: true
+resizable: true
+draggable: true
+closable: true
+minimizable: true
+maximizable: true
+system: false
+showTitle: false
